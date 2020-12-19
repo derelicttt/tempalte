@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5639fec-de6a-4ab9-9dca-97dc08627dee" name="Default Changelist" comment="test commit in test branch">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a5639fec-de6a-4ab9-9dca-97dc08627dee" name="Default Changelist" comment="Header">
       <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +55,14 @@
       <workItem from="1608379024351" duration="1450000" />
       <workItem from="1608398318665" duration="105000" />
     </task>
+    <task id="LOCAL-00001" summary="Header">
+      <created>1608399717117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608399717117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +79,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Header" />
   </component>
 </project>
